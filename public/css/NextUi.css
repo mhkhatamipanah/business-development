@@ -1,0 +1,27 @@
+
+
+/* Input Label NextUi */
+.labelInputNextUi label{
+    right: 0 !important;
+    left: none !important;
+  
+  }
+  .labelInputNextUi svg[role="presentation"]{
+    right: auto !important;
+    left: 10px !important;
+  }
+  .labelInputNextUi span{
+    text-align: right !important;
+  }
+  
+  /* labelSelect */
+  .labelSpace label{
+    /* margin-top: 20px; */
+    top: 38% !important;
+  }
+
+
+
+.thStyle thead tr{
+box-shadow: none !important;
+}
