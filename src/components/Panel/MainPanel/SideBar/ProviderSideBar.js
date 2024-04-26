@@ -34,7 +34,7 @@ const ProviderSideBar = ({getChildren}) => {
 
         <SidebarItem
           icon={<UserRound size={20} />}
-          text={" تست دو "}
+          text={" تست  "}
           link={"/test"}
         />
     </Sidebar>
